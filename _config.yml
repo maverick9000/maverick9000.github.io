@@ -1,6 +1,7 @@
 # Site Settings
 name: console maverick
 title: console maverick | lord of the console
+email: mqkldgyd
 description:
 tags:
   - ansible
@@ -14,6 +15,8 @@ menu:
     url: /
   - title: About
     url: /about
+  - title: Contact
+    url: /contact
   - title: Feed
     url: /feed.xml
 
