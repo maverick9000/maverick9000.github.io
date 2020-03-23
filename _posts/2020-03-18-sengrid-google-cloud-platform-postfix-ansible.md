@@ -42,7 +42,7 @@ create a `/etc/postfix/sasl_passwd` file with
 
 
 {% highlight shell %}
-[smtp.sendgrid.net]:587 username:password
+[smtp.sendgrid.net]:2525 username:password
 {% endhighlight %}
 
 Change the permissions
