@@ -49,7 +49,6 @@ Change the permissions
 
 {% highlight shell %}
 sudo chmod 600 /etc/postfix/sasl_passwd
-sudo postmap /etc/postfix/sasl_passwd
 {% endhighlight %}
 
 Encrypt the password file
