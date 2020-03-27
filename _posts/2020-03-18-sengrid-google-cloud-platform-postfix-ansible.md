@@ -3,7 +3,7 @@ title: Integrate Postfix with SendGrid on Google Cloud Platform via Ansible
 layout: post
 date: '2020-03-18 13:28:05 +0900'
 subtitle: Automate your life, buy time. Be filthy rich.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+description: Learn to use an Ansible recipe to fix email sending via Postfix on a fresh Google Cloud Platform instance installation.
 image: /assets/img/uploads/notime.jpg
 optimized_image: /assets/img/uploads/notime.jpg
 category: ansible
