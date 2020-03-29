@@ -21,6 +21,8 @@ menu:
     url: /bitcoin
   - title: Presentations
     url: /presentations
+  - title: Youtube
+    url: /youtube
   - title: Feed
     url: /feed.xml
 
