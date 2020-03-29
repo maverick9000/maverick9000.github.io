@@ -23,6 +23,8 @@ menu:
     url: /presentations
   - title: Youtube
     url: /youtube
+  - title: Code
+    url: /code
   - title: Feed
     url: /feed.xml
 
