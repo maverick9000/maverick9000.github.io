@@ -17,6 +17,8 @@ menu:
     url: /about
   - title: Contact
     url: /contact
+  - title: Bitcoin
+    url: /bitcoin
   - title: Feed
     url: /feed.xml
 
