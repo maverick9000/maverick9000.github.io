@@ -1,11 +1,11 @@
 ---
 title: Get munin node slave to report to a munin master
 layout: post
-date: '2020-04-1 13:28:05 +0900'
+date: '2020-03-20 13:28:05 +0900'
 subtitle: Escape the rate race, retire by 30.
 description: Learn how to setup 2 servers communicating in a munin master/slave pattern.
-image: /assets/img/uploads/slave.jpg
-optimized_image: /assets/img/uploads/slave.jpg
+image: /assets/img/uploads/munin.png
+optimized_image: /assets/img/uploads/munin.png
 category: devops
 tags:
   - munin
