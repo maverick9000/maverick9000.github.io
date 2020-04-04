@@ -10,7 +10,7 @@ category: ansible
 tags:
   - ansible
   - gcp
-  - sengrid
+  - sendgrid
   - postfix
 author: Maverick Stoklosa
 ---
@@ -115,15 +115,15 @@ Then in your `files/sasl_passwd` place a sample file with this
 
 {% highlight shell %}
 {% raw %}
-[smtp.sendgrid.net]:2525 {{ sengrid_username }}:{{ sengrid_password }}
+[smtp.sendgrid.net]:2525 {{ sendgrid_username }}:{{ sendgrid_password }}
 {% endraw %}
 {% endhighlight %}
 
 In order to get this to run you will need a couple of variables defined
 
 {% highlight shell %}
-sengrid_username
-sengrid_password
+sendgrid_username
+sendgrid_password
 {% endhighlight %}
 
 Which you can do in your `group_vars` file.

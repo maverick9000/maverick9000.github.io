@@ -123,7 +123,7 @@ require 'sendgrid-ruby'
 include SendGrid
 
 def email(message)
-  sendgrid_key = "<YOUR SENGRID API TOKEN>"
+  sendgrid_key = "<YOUR SENDGRID API TOKEN>"
   from = Email.new(email: '<YOU>@gmail.com')
   to = Email.new(email: '<YOU>@gmail.com')
   subject = 'Coincheck update'
