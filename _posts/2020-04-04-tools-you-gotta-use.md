@@ -14,6 +14,8 @@ tags:
 author: Maverick Stoklosa
 ---
 
+I don't about you but I only became a console cowboy cause of Keanu Reeves.
+
 I've hand picked these. I'm sure you will find something to your liking here. If it's not fast and pretty I don't use it.
 
 ## lnav
