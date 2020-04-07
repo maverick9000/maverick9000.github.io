@@ -6,7 +6,7 @@ subtitle:
 description: Automate creating your own VPN on Google Cloud. Change IPs as they get blocked.
 image: /assets/img/uploads/stop.jpg
 optimized_image: /assets/img/uploads/stop.jpg
-category: postgresql
+category: vpn
 tags:
   - firewall
   - vpn

@@ -6,7 +6,7 @@ subtitle: Did you decide what color Aventador you're going to buy?
 description: These are the cream of the crop of CLI tools
 image: /assets/img/uploads/console.jpg
 optimized_image: /assets/img/uploads/console.jpg
-category: postgresql
+category: cli
 tags:
   - cli
   - tools

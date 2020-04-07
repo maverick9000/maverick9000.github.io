@@ -6,7 +6,7 @@ subtitle: How old would you feel if you didn't know how old you were?
 description: There is a way to create Gitlab issues which will ensure you get exactly what you want done, let me show you how.
 image: /assets/img/uploads/gitlab.png
 optimized_image: /assets/img/uploads/gitlab.png
-category: postgresql
+category: fundementals
 tags:
   - gitlab
   - fundementals
