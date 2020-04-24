@@ -12,7 +12,7 @@ tags:
   - cpu
   - memory
   - disk
-author: maverick
+author: Maverick Stoklosa
 ---
 
 I often find myself unable to sleep at night when I don't have a clearly defined server infrastucture diagram. I need stats, I need to know the CPU. I need to know about the disk and most importantly I need to know about the memory.
