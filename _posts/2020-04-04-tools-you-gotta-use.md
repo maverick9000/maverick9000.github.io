@@ -14,7 +14,7 @@ tags:
 author: Maverick Stoklosa
 ---
 
-I don't about you but I only became a console cowboy cause of Keanu Reeves.
+I don't know about you but I only became a console cowboy cause of Keanu Reeves.
 
 I've hand picked these. I'm sure you will find something to your liking here. If it's not fast and pretty I don't use it.
 
@@ -23,6 +23,12 @@ I've hand picked these. I'm sure you will find something to your liking here. If
 ![lnav](/assets/img/uploads/lnav.png)
 
 It's like tail but can handle multiple files on the same interface and jumping between errors.
+
+Install via
+
+```
+sudo apt install lnav
+```
 
 [lnav](http://lnav.org/)
 
@@ -75,6 +81,12 @@ Get the IP of the server you're on via curl.
 
 It's like find except it's not shit. It's fast too.
 
+Install via
+
+```
+sudo apt install fd-find
+```
+
 [fd](https://github.com/sharkdp/fd)
 
 ## ncdu
@@ -82,6 +94,13 @@ It's like find except it's not shit. It's fast too.
 ![ncdu](/assets/img/uploads/ncdu.png)
 
 Is the client calling you cause the machine is hung cause there's no HD space left? Find out what's eating up all the space.
+
+Install via
+
+```
+sudo add-apt-repository ppa:eugenesan/ppa
+sudo apt install ncdu
+```
 
 [ncdu](https://dev.yorhel.nl/ncdu)
 
@@ -91,6 +110,12 @@ Is the client calling you cause the machine is hung cause there's no HD space le
 
 It's like top except it doesn't hurt the artist in you looking at it.
 
+Install via
+
+```
+sudo apt install htop
+```
+
 [bat](https://hisham.hm/htop/)
 
 ## bat
@@ -99,6 +124,12 @@ It's like top except it doesn't hurt the artist in you looking at it.
 
 It's an esthetically pleasing `cat`
 
+Install via
+
+```
+sudo apt install bat
+```
+
 [bat](https://github.com/sharkdp/bat)
 
 ## fzf
@@ -106,6 +137,12 @@ It's an esthetically pleasing `cat`
 ![fzf](/assets/img/uploads/fzf.png)
 
 fzf is a general-purpose command-line fuzzy finder. You can integrate it into your vim and shell. Use it to fuzzy find anything.
+
+Install via
+
+```
+sudo apt install fzf
+```
 
 [fzf](https://github.com/junegunn/fzf)
 
@@ -123,12 +160,23 @@ Git repo browser. Merge, commit, browse. Very useful for figuring out who broke 
 
 Recursively `ls` the subdirectories
 
-`sudo apt-get install tree`
+Install via
+
+```
+sudo apt install tree
+```
 
 ## pgcli
 
 ![pgcli](/assets/img/uploads/pgcli.png)
 
 PostgreSQL CLI with autocomplete. Aware of columns, tables and PostgreSQL commands.
+
+Install via
+
+```
+sudo apt install libpq-dev python-dev python-pip
+sudo pip install pgcli
+```
 
 [pgcli](https://www.pgcli.com/)
