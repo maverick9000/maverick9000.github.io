@@ -1,7 +1,7 @@
 ---
 title: Notes from 'Are Your Lights On?'
 layout: post
-date: '2020-04-28'
+date: '2020-04-10'
 subtitle: From the book by Donald C. Gause
 description: "Insights on user experience design"
 image: /assets/img/uploads/lights.jpeg
