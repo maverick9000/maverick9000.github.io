@@ -6,14 +6,14 @@ subtitle: Solid book with some insights
 description: "Hightlights from the book by Kevlin Henney"
 image: /assets/img/uploads/97.jpg
 optimized_image: /assets/img/uploads/97.jpg
-category: postgresql
+category: fundementals
 tags:
   - fundementals
   - book
 author: Maverick Stoklosa
 ---
 
-Here are some things that stuck out reading [97 Things Every Programmer Should Know](https://amzn.to/3eYTLrS).
+Here are some things that stuck out reading [97 Things Every Programmer Should Know](https://amzn.to/3eYTLrS)
  
 
 ## Ask, “What Would the User Do?” (You Are Not the User) - Giles Colborne
