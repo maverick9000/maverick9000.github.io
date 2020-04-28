@@ -2,7 +2,7 @@
 title: Highlights from '97 Things Every Programmer Should Know'
 layout: post
 date: '2020-04-28'
-subtitle: Solid books with some insights
+subtitle: Solid book with some insights
 description: "Hightlights from the book by Kevlin Henney"
 image: /assets/img/uploads/97.jpg
 optimized_image: /assets/img/uploads/97.jpg
