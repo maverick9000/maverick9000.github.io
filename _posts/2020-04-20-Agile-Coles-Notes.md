@@ -16,6 +16,8 @@ tags:
 author: Maverick Stoklosa
 ---
 
+'Lord of the Flies' I still have nightmares about passing the conch.
+
 Here is what I learned about Agile from books like [Scrum: The Art of Doing Twice the Work in Half the Time](https://amzn.to/3eW64p1) and doing Agile Web Development for the past few years. It hasn't always been by the book but the general idea has always been there.
 
 ## Sprint
