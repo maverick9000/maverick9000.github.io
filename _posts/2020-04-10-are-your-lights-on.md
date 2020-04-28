@@ -1,8 +1,8 @@
 ---
-title: Notes from 'Are Your Lights On?'
+title: 'Are Your Lights On?'
 layout: post
 date: '2020-04-10'
-subtitle: From the book by Donald C. Gause
+subtitle: Notes from the book by Donald C. Gause
 description: "Insights on user experience design"
 image: /assets/img/uploads/lights.jpeg
 optimized_image: /assets/img/uploads/lights.jpeg

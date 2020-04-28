@@ -1,5 +1,5 @@
 ---
-title: Highlights from '97 Things Every Programmer Should Know'
+title: '97 Things Every Programmer Should Know'
 layout: post
 date: '2020-04-28'
 subtitle: Solid book with some insights
