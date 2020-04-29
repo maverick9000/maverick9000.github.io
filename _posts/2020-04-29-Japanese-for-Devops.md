@@ -2,7 +2,6 @@
 title: 'Japanese for Devops'
 layout: post
 date: '2020-04-29'
-published: false
 subtitle: Arigatou
 description: "Learn Nihongo about your Pasokon"
 image: /assets/img/uploads/doge.jpg
