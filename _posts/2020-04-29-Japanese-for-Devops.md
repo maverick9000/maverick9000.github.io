@@ -4,8 +4,8 @@ layout: post
 date: '2020-04-29'
 subtitle: Arigatou
 description: "Learn Nihongo about your Pasokon"
-image: /assets/img/uploads/doge.jpg
-optimized_image: /assets/img/uploads/doge.jpg
+image: /assets/img/uploads/doge.png
+optimized_image: /assets/img/uploads/doge.png
 category: fundementals
 tags:
   - fundementals
