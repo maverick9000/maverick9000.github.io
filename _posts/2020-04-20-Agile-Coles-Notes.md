@@ -138,3 +138,126 @@ Kanban Todo -> Backlog
 #### Triage/Feature Freeze towards end of project
 
 What are the priority tickets and freeze the rest of the work: only high priority items are done in triage stage
+
+# Scrum
+
+- Find out how fast the team is actually going by monitoring it over a few sprints - burndown chart
+- Find out how people actually work not how they say they work
+- Periodically inspect what you've done and determine if you should continue or pivot
+- Fail fast so you can fix early
+- Only work on what produces value
+- there is individual performance and team performance - it's usually teams that accomplish something not individuals
+- making the worst team mediocre is more beneficial than making an individual 10 times better
+- the best teams:
+	○ self organizing, self managing, empowered to make necessary decisions
+	○ vision that transcends the problem 
+	○ feeds on the team members skills
+- lay out the facts no blame
+- each team has all the people necessary to work on the project
+- the individual should identify with the team not with their specialty
+- if there's more than 9 people on the team velocity will slow
+- optimal team size is 7+-2
+- it's probably not the person that sucks but rather the process
+* 1-4 week sprint
+
+## Scrum Roles
+
+### Product Owner
+- sets priorities
+- talks to client
+- creates user stories
+- if you can't dedicate a person to one project as product owner scrum is not right for you - being divided across multiple projects chasing multiple rabbits
+- "this is a great idea but there are other higher priority features right now"
+
+### Scrum Master
+- servant / leader
+- not Project Manager
+- ensures scrum is being used
+- remove impediments
+  * is there someone you need to talk to?
+
+## Daily Standup
+
+1. what did you do yesterday to achieve goals
+2. what will you do today to achieve goals
+3. what are your impediments to doing it
+  - it's not a status update
+  * PM does not interrupt can only attend
+
+## Story Points
+
+it's ok to allocate points to customer service story if at this time the client needs a lot of help
+
+## Retrospective
+
+- 1 hour for 2 week sprint
+- 2 hours for 4 week sprint
+- what went well
+- what went wrong
+- what could be improved
+* mistakes are not personal, it's made as a team
+
+![schedule](/assets/img/uploads/agile_11.png)
+
+## User Stories
+
+As a <end user> 
+I want to <desired action>
+so that <desired benefit>
+
+Who: needs it
+What: do they want
+Why: do they need it
+
+Story must be actionable before you can begin
+
+Define acceptance criteria. If you finish the criteria then the story is done.
+
+Go deeper with *INVEST*
+
+Independent: does not depend on other stories, can be done alone
+Negotiable: If after talking to the team you have a better idea you should be able to change the story.
+Valuable: has value to users
+Estimatable: can determine how much complexity this story has
+Small: can finish in a few days
+Testable: how do I know it works well
+
+## Velocity
+
+How many story points can the team complete per sprint
+
+![velocity](/assets/img/uploads/agile_6.png)
+
+## Burndown Chart
+
+![velocity](/assets/img/uploads/agile_7.png)
+
+To achieve 120 story points in 10 sprints
+Amount of story points left over at the end of the sprint
+Behind schedule in spring 1, ahead of schedule on sprint 3
+At the end of the sprints there should be no more points to do because there are no more stories to do
+
+![velocity](/assets/img/uploads/agile_8.png)
+
+## Burnup Chart
+
+![velocity](/assets/img/uploads/agile_9.png)
+
+Completed: what actually got done
+Total: what needs to be done
+
+Takes changes/additions/subtractions into account
+
+![velocity](/assets/img/uploads/agile_10.png)
+
+It looks like you were ahead on sprint 3 but actually points were removed which is visible in the burnup chart
+
+## Working Agreement
+
+A statement of what's expected from everyone on the team.  This makes everyone aware of what's expected so there are no surprises. Eliminates people being upset about something, it can be very trivial like moving a meeting to a different hour.  One team, one goal. You're trying to all get on the same page. 
+
+Ex
+
+• You're always late to standup so let's just move the standup 
+• If you're going to interrupt me don't just come to my desk, send me a message first
+- Do meetings at the company meeting room instead of your desk
