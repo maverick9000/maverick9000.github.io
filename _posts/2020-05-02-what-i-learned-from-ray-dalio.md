@@ -2,6 +2,7 @@
 title: What I learned from Ray Dalio
 layout: post
 subtitle: A guy who knows how to make money
+date: '2020-05-02 13:28:05 +0900'
 description: Applying money making to software
 image: /assets/img/uploads/ray.jpg
 optimized_image: /assets/img/uploads/ray.jpg
