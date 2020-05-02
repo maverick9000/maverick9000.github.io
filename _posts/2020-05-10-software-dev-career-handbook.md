@@ -2,6 +2,7 @@
 title: Software Developer's Career Handbook
 layout: post
 subtitle: How to thrive in the cut throat business of software
+date: '2020-05-10 13:28:05 +0900'
 description: Sling a keyboard and get rich
 image: /assets/img/uploads/hack.jpg
 optimized_image: /assets/img/uploads/hack.jpg
