@@ -249,3 +249,13 @@ PC版 pc version
 あえて		on purpose
 
 無事に　　ぶじに	without fail 	＝問題ない
+
+SSL証明書	しょうめいしょ SSL Certificate
+
+機能　きのう　function
+
+作業　さぎょう　work, operation
+
+自動化する	じどうかする	　automate
+
+エラー　error
