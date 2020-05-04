@@ -259,3 +259,19 @@ SSL証明書	しょうめいしょ SSL Certificate
 自動化する	じどうかする	　automate
 
 エラー　error
+
+サーバー管理		かんり server administration
+
+サーバー管理者	かんりしゃ　管理する人 server administrator
+
+サーバーの構築　　	こうちく　	設計	せっけい	design
+
+設置	せっち 	installation
+
+サーバーの運用　　	うんよう	毎日の作業　　まいにちのさぎょう everyday work / maintenance
+
+定期的な作業	ていきてきなさぎょう regular work / upgrades / routine work
+
+サーバーの監視	かんし		モニター	server monitoring
+
+サーバーの保守	ほしゅ		障害対応	しょうがいたいおう　トラブルシュート troubleshooting
