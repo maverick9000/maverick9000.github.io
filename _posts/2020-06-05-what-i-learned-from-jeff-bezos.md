@@ -5,6 +5,7 @@ subtitle: Another guy who knows how to make money
 description: Another guy who knows how to make money
 image: /assets/img/uploads/bezos.jpg
 optimized_image: /assets/img/uploads/bezos.jpg
+date: '2020-06-05 13:28:05 +0900'
 category: fundementals
 tags:
   - company

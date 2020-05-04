@@ -4,6 +4,7 @@ layout: post
 subtitle: David Heinemeier Hansson
 description: Bad boy of coding
 image: /assets/img/uploads/david.jpg
+date: '2020-06-15 13:28:05 +0900'
 optimized_image: /assets/img/uploads/david.jpg
 category: fundementals
 tags:

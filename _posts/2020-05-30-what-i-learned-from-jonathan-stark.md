@@ -5,6 +5,7 @@ subtitle: A guy who knows how to make money
 description: Applying money making to software
 image: /assets/img/uploads/jonathan.jpg
 optimized_image: /assets/img/uploads/jonathan.jpg
+date: '2020-05-30 13:28:05 +0900'
 category: fundementals
 tags:
   - company

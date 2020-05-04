@@ -4,6 +4,7 @@ layout: post
 subtitle: Everyone is rich
 description: Everyone is rich
 image: /assets/img/uploads/grant.jpg
+date: '2020-06-10 13:28:05 +0900'
 optimized_image: /assets/img/uploads/grant.jpg
 category: fundementals
 tags:
