@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: 
+photo: https://maverick9000.github.io/assets/img/uploads/profile.jpg
 name: maverick9000
 display_name: Maverick Stoklosa
 position: 
