@@ -15,9 +15,9 @@ tags:
 author: Maverick Stoklosa
 ---
 
-I often find myself unable to sleep at night when I don't have a clearly defined server infrastucture diagram. I need stats, I need to know the CPU. I need to know about the disk and most importantly I need to know about the memory.
+I often find myself unable to sleep at night when I do not have a clearly defined server infrastucture diagram. I need stats, I need to know the CPU. I need to know about the disk and most importantly I need to know about the memory.
 
-Your probably feel the same way and that's why you have to use Ansible to gather information about all your machines. You're not gonna gonna do that by hand are you? That's silly. You need to automate it so you can spend more time trying to figure out what Nietzsche was talking about and less time ssh'ing into servers.
+Your probably feel the same way and that's why you have to use Ansible to gather information about all your machines. You're not gonna gonna do that by hand are you? That's silly. You need to automate it so you can spend more time trying to figure out what Nietzsche was talking about and less time sshing into servers.
 
 Today I will teach you how to do that. This recipe uses no additional tools, there is nothing to install on your servers.
 
