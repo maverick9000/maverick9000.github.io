@@ -39,7 +39,6 @@ I recently read [Principles](https://amzn.to/2YozrKC) by Ray Dalio
 * Connect what people are like with outcomes they produce - key attitude when selecting a team member 
 * Not immorality just trying to optimize for different interests 
 * Increasingly succeed more than you fail
-* Don’t lose your aggressiveness 
 * Nature optimized for the whole not the individual 
 * Nature made sex feel good so that you would propagate DNA. Without a carrot nothing moves. 
 * Reality is built for the whole rather than you
@@ -50,7 +49,7 @@ I recently read [Principles](https://amzn.to/2YozrKC) by Ray Dalio
 * Be audacious what you think of attainable is based on what you know at the moment 
 * Once you identify a problem don’t tolerate it. Tolerating it has same consequences as not discovering it
 * Fierce intolerance of badness of any kind regardless of severity 
-* Focus on what is before moving on it spend 15m-1hr before you move. Find the root cause not the superficial cause. Distinguish the symptoms from the disease. A player doctors A player coworkers. A player life. 
+* Focus on what is before moving on it spend 15m-1hr before you move. Find the root cause not the superficial cause. Distinguish the symptoms from the disease.
 * Tasks narrative and goals don’t mix them up
 * Arrogance will keep you stuck in the wrong mental map but being too open will make you give up prematurely 
 * If you can find your blind spots you can fix them. Remove the ego. 
@@ -58,7 +57,6 @@ I recently read [Principles](https://amzn.to/2YozrKC) by Ray Dalio
 * People try to prove they have the answer even though they don’t 
 * Close minded people aren’t interested in why you disagree they just want you to agree with them no matter what - anger 
 * Get 4 opinions on serious medical procedures 
-* Ignoring your ability to predict how others will act because of equality is stupid 
 * The conscious and subconscious mind are always in a battle in humans. Animals are nothing but subconscious. 
 * Anything done frequently enough will become a habit 
 * Habit is inertia 
@@ -82,7 +80,7 @@ I recently read [Principles](https://amzn.to/2YozrKC) by Ray Dalio
 * Generosity versus fairness. Just because I give something to someone out of generosity doesn’t mean I will give it to you.  
 * You feel bad about mistakes because you think short term ‘I will be found out’ but but the long term of how can I learn from this mistake. 
 * Mistakes can be made but you have to learn from them. The worst is covering up mistakes out of fear of being punished.  
-* It’s not productive to yell at your ski instructor if he says you fell because you didn’t shift your weight and it’s no different when your supervisor gives feedback assuming they are not retarded 
+* It’s not productive to yell at your ski instructor if he says you fell because you didn’t shift your weight and it’s no different when your supervisor gives feedback
 * Pain is normally sign of a problem that should be fixed *what if you’re always in pain?*
 * I’m willing to let you scratch or dent the car but I won’t let you total it 
 * Chirping versus actual constructive complaints 
