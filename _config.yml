@@ -2,12 +2,15 @@
 name: Maverick Stoklosa
 title: Maverick Stoklosa
 email: consolemaverick@gmail.com
-description:
+author: Maverick Stoklosa
+description: Ansible, Command Line, Devops
 tags:
   - ansible
   - console
   - linux
   - shell
+  - stoklosa
+  - maverick
 disqus_username: maverick9000-github-io
 show_hero: true
 menu:
@@ -92,6 +95,7 @@ plugins:
   - jekyll-paginate
   - jekyll-paginate-content
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 # Exclude my node related stuff
 exclude: [
