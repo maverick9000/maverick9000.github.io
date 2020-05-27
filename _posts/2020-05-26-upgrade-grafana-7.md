@@ -59,3 +59,40 @@ apt install libx11-6 libx11-xcb1 libxcomposite1 libxcursor1 libxdamage1 libxext6
 and you're back in business
 
 ![grafana](/assets/img/uploads/grafana3.png)
+
+## BONUS
+
+Just when you think you can call it a night you get a `Timeout` error on certain alerts. It's taking too long to render the PNG file to attach to the email.
+
+More specifically
+
+```
+t=2020-05-27T01:44:16+0000 lvl=info msg=Rendering logger=rendering renderer=plugin path="d-solo/I1Ei4r3mz/monitoring-postgresql-server-postgres-replication?orgId=1&panelId=32"
+t=2020-05-27T01:44:16+0000 lvl=dbug msg="Calling renderer plugin" logger=rendering renderer=plugin req="url:\"http://127.0.0.1:8080/d-solo/I1Ei4r3mz/monitoring-postgresql-server-postgres-replication?orgId=1&panelId=32&render=1\" width:1000 height:500 deviceScaleFactor:1 filePath:\"/var/lib/grafana/png/kMhziqV30i2XZDVROePr.png\" renderKey:\"Iu1FMei1f6NcDXEMBmi1CH64vnGn0ApY\" domain:\"127.0.0.1\" timeout:15 "
+t=2020-05-27T01:44:31+0000 lvl=info msg="Rendering timed out" logger=rendering renderer=plugin
+t=2020-05-27T01:44:31+0000 lvl=eror msg="Failed to render and upload alert panel image." logger=alerting.notifier ruleId=10 error="Timeout error. You can set timeout in seconds with &timeout url parameter"
+```
+
+But when you try to generate the PNG file manually by 'Sharing' the alert you can do it without a timeout so it must be just alerting that's timing out.
+
+You go through your `/etc/grafana/grafana.ini` and find 
+
+```
+timeout = 30
+```
+
+but changing it to 
+
+```
+timeout = 60
+```
+
+does nothing.
+
+So finally you read the docs and realize there's an additional setting for alerting timeouts. Go to the `[alerting]` section and add
+
+```
+notification_timeout_seconds = 60
+```
+
+The default is 30 so if your PNG takes longer than that to generate the alert will timeout.
