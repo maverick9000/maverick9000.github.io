@@ -146,3 +146,28 @@ exit 0
 ```
 
 What this is doing is allowing you to start/stop/restart the sidekiq process. It creates a PIDFILE so monit can track if it's up or not. It also generates a log file which you can use to track what your sidekiq process is doing. 
+
+You'll notice I'm using an `env.sh` file above. If you're curious what's inside there here's a sample one:
+
+```
+#!/bin/bash
+export APP_NAME=your_app
+export APP_ENV=your_app_env
+export RUBY_VERSION=your_ruby_version
+export DEPLOY_TO=/var/www/production/your_app_directory
+export RVM=your_ruby_version@your_app_your_app_env
+export RVM_SOURCE=/usr/local/lib/rvm
+export USER=www-data
+export GROUP=www-data
+export GEM_PATH=/usr/local/rvm/gems/$RUBY_VERSION:/usr/local/rvm/gems/$RUBY_VERSION@global:/usr/local/rvm/gems/$RVM
+export GEM_HOME=/usr/local/rvm/gems/$RVM
+export PATH=/usr/local/bin:/usr/local/sbin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/bin/:$GEM_PATH
+export HOME=/var/www
+export RAILS_ENV=$APP_ENV
+export VERBOSE=true
+
+cd $DEPLOY_TO/current
+source $RVM_SOURCE
+rvm $RVM
+umask 0002
+```
