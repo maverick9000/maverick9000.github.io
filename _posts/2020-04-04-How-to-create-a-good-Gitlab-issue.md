@@ -10,7 +10,7 @@ category: fundementals
 tags:
   - gitlab
   - fundementals
-author: Maverick Stoklosa
+author: Maverick
 ---
 
 ## First let’s figure out what not to do

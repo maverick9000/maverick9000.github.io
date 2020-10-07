@@ -11,7 +11,7 @@ tags:
   - cli
   - tools
   - linux
-author: Maverick Stoklosa
+author: Maverick
 ---
 
 I don't know about you but I only became a console cowboy cause of Keanu Reeves.

@@ -9,7 +9,7 @@ optimized_image: /assets/img/uploads/copy_paste.png
 category: fundementals
 tags:
   - monit
-author: Maverick Stoklosa
+author: Maverick
 ---
 
 ## Typical monit scripts

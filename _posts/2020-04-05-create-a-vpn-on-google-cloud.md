@@ -12,7 +12,7 @@ tags:
   - vpn
   - google cloud
   - ansible
-author: Maverick Stoklosa
+author: Maverick
 ---
 
 Does your VPN keep getting blocked? Do you want to have your own VPN on which you can change the IP at anytime? Keep reading.

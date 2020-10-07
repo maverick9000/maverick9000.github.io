@@ -11,7 +11,7 @@ tags:
   - company
   - money
   - management
-author: Maverick Stoklosa
+author: Maverick
 ---
 
 Highlights from [The Everything Store](https://amzn.to/35nU6jF) by Jeff Bezos

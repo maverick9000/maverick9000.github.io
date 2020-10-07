@@ -9,7 +9,7 @@ optimized_image: /assets/img/uploads/server.jpg
 category: fundementals
 tags:
   - monit
-author: Maverick Stoklosa
+author: Maverick
 ---
 
 ## Sample NGINX configurations

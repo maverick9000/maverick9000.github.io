@@ -11,7 +11,7 @@ tags:
   - postgresql
   - hardware
   - disk
-author: Maverick Stoklosa
+author: Maverick
 ---
 
 ## How to add an additional disk to an instance

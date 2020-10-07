@@ -2,7 +2,7 @@
 layout: author
 photo: https://maverick9000.github.io/assets/img/uploads/profile.jpg
 name: maverick9000
-display_name: Maverick Stoklosa
+display_name: Console Maverick
 position: 
 bio: 
 github_username: maverick9000
