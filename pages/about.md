@@ -9,4 +9,4 @@ permalink: /about/
 
 # About
 
-I'm Maverick. I know a little bit about DevOps. Let's touch base and synergize.
+I'm Maverick Stoklosa. I know a little bit about DevOps. Let's touch base and synergize.
