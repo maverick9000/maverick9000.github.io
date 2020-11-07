@@ -1,8 +1,8 @@
 # Site Settings
-name: console maverick
-title: console maverick
+name: Maverick Stoklosa
+title: Maverick Stoklosa
 email: consolemaverick@gmail.com
-author: Maverick
+author: Maverick Stoklosa
 description: Ansible, Command Line, Devops
 tags:
   - ansible
