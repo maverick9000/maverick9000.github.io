@@ -22,6 +22,8 @@ menu:
     url: /about
   - title: Contact
     url: /contact
+  - title: Book
+    url: /book
   - title: Presentations
     url: /presentations
   - title: Youtube
