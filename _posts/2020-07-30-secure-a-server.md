@@ -107,4 +107,3 @@ Host app1.example.com
 ```
 
 so in order to ssh into app1.example.com you go through the gateway server. This prevents exposure of the other servers to the internet.
-d
