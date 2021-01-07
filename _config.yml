@@ -25,7 +25,7 @@ menu:
   - title: Book
     url: /book
   - title: Course
-    url: /course/
+    url: /course
   - title: Presentations
     url: /presentations
   - title: Youtube

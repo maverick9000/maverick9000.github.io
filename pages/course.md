@@ -2,7 +2,7 @@
 layout: page
 title: Course
 description: Ansible Master Course on Udemy
-permaplink: /course/
+permalink: /course/
 ---
 
 # Ansible Master Course on Udemy
