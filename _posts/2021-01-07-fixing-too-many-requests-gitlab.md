@@ -3,9 +3,9 @@ title: "Fixing ERROR: toomanyrequests: Too Many Requests. in your Gitlab Continu
 layout: post
 subtitle: Fix Gitlab pipelines  
 description: "Fixing ERROR: toomanyrequests: Too Many Requests. in your Gitlab Continuous Integration Jobs"
-image: https://i.imgur.com/vEovAhb.jpg
+image: /assets/img/uploads/toomanyrequests.jpg
 date: '2021-01-07 07:28:05 +0900'
-optimized_image: https://i.imgur.com/vEovAhb.jpg
+optimized_image: /assets/img/uploads/toomanyrequests.jpg
 category: fundementals
 tags:
   - ansible
@@ -26,7 +26,7 @@ So now you have a team full of people waiting for their jobs to finish in Gitlab
 
 The cheapest way is to purchase a Pro account https://www.docker.com/pricing 
 
-![screenshot_2020-11-19_09-57-19](https://i.imgur.com/eCKqsSj.png)
+![toomanyrequests2](/assets/img/uploads/toomanyrequests2.png))
 
 Once you have your pro account you can go on your server and execute
 

@@ -24,6 +24,8 @@ menu:
     url: /contact
   - title: Book
     url: /book
+  - title: Course
+    url: /course/
   - title: Presentations
     url: /presentations
   - title: Youtube
