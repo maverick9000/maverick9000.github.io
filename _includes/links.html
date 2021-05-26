@@ -6,4 +6,11 @@
       </li>
     {% endif %}
   {% endfor %}
+  {% for item in site.external_menu %}
+    {% if item.title and item.url %}
+      <li>
+        <a href="{{ item.url }}" target="_blank">{{ item.title }}</a>
+      </li>
+    {% endif %}
+  {% endfor %}
 </ul>

@@ -22,21 +22,22 @@ menu:
     url: /about
   - title: Contact
     url: /contact
-  - title: Book
-    url: /book
-  - title: Course
-    url: /course
-  - title: Presentations
-    url: /presentations
-  - title: Youtube
-    url: /youtube
-  - title: 哔哩哔哩bilibili
-    url: /bilibili
   - title: Code
     url: /code
   - title: Feed
     url: /feed.xml
 
+external_menu:
+  - title: Book
+    url: https://www.amazon.com/dp/B08PDSXW6J/ref=sr_1_1?dchild=1&keywords=ansible+maverick&qid=1606879946&sr=8-1
+  - title: Youtube
+    url: https://www.youtube.com/channel/UCD69b3wfgT6-HMrIP4tXv_w
+  - title: 哔哩哔哩bilibili
+    url: https://space.bilibili.com/591877275
+  - title: Presentations
+    url: https://speakerdeck.com/maverick9000
+  - title: Course
+    url: https://www.udemy.com/course/ansible-master-course/
 
 # Social Media Settings
 # Remove the item if you don't need it
