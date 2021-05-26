@@ -18,11 +18,9 @@ menu:
     url: /
   - title: Subscribe
     url: /subscribe
-  - title: About
-    url: /about
   - title: Contact
     url: /contact
-  - title: Code
+  - title: Open Source
     url: /code
   - title: Feed
     url: /feed.xml
@@ -36,7 +34,7 @@ external_menu:
     url: https://space.bilibili.com/591877275
   - title: Presentations
     url: https://speakerdeck.com/maverick9000
-  - title: Course
+  - title: Ansible Course
     url: https://www.udemy.com/course/ansible-master-course/
 
 # Social Media Settings
